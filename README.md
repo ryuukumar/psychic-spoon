@@ -1,3 +1,6 @@
+Copyright 2017 Aditya Kumar
+Some rights reserved.
+
 # psychic-spoon
 Just another repository
 
