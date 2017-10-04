@@ -10,48 +10,19 @@ This is protected under GPL, and all it can do is add.
 Well, it's useful that way.
 Suits me.
 
-# I'm learning Markdown here...
+## Achievements
 
-### A list
-1. Main()
-   1. Add
-   1. Return
-   
-### Emphasis
-**bold** and __bold__
-
-*italic* and _italic_
-
-### A quote:
-
-> La la la
-> la la la.
->
-> Somebody burped.
->
-> La la la
-> la la la.
-
-### Code:
-```c++
-int main() {
-  cout << "I love c plus plus!";
-}
-```
-
-### Table:
-
-Head 1|Head 2
-------|------
-Yolo | Yolo
-Yo | Yo
-
-### ~~Strikethrough heading~~
-
-~~Some more strikethrough text~~
-
-### List
-- [x] Yay! This is finished!
-- [ ] Oops... This isn't finished!
-
-### [Links!](http://google.com)
+- [x] Create adding function
+- [x] Release first pre-release
+- [ ] Create infinite adding function
+- [ ] Release seecond pre-release
+- [ ] Create GUI for adding
+- [ ] Release third pre-release
+- [ ] Implement AI for better addition
+- [ ] Use AI for adding numbers upto the `int64_t` limit (sum can be way greater)
+- [ ] Release fourth pre-release
+- [ ] Release first beta for testing
+- [ ] Correct errors, fix bugs (from reports)
+- [ ] Release second beta
+- [ ] Fix remaining bugs and errors
+- [ ] Release first release!
